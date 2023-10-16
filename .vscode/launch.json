@@ -14,7 +14,7 @@
             "startupFunc": "",
             "startupArgs": "",
             "stopOnEntry": false,
-            "mainArgs": "ueki5! -n",
+            "mainArgs": "ueki5!",
             "ghciPrompt": "H>>= ",
             "ghciInitialPrompt": "> ",
             "ghciCmd": "stack ghci --with-ghc=ghci-dap --test --no-load --no-build --main-is TARGET",
